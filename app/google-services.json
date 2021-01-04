@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "815831681168",
+    "firebase_url": "https://speed-test-ffce7.firebaseio.com",
+    "project_id": "speed-test-ffce7",
+    "storage_bucket": "speed-test-ffce7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815831681168:android:f2e99c750a0b489f20b015",
+        "android_client_info": {
+          "package_name": "com.d3vdr0id.speedtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815831681168-qlp27iqiia8sft8oatmaqsdi2nq0kcae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEHtx6bAIAtyz82zkQHDKestx-V1v6Hj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815831681168-qlp27iqiia8sft8oatmaqsdi2nq0kcae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
